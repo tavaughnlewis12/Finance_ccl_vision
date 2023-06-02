@@ -1,0 +1,91 @@
+ <div class="IRA">
+                <h1>IRA vs Roth IRA</h1>
+                <p>Both Roth IRA and traditional IRA are retirement savings accounts that offer tax benefits, but
+                    there are some key differences between the two:</p>
+                <ol>
+                    <li>Tax treatment: The main difference between the two is how they are taxed.<br> With a traditional
+                        IRA,
+                        contributions are tax-deductible<br> in the year they are made, and the money grows tax-free
+                        until
+                        you
+                        withdraw it in retirement,<br> at which time it is taxed as ordinary income.<br> With a Roth
+                        IRA,
+                        contributions are made with after-tax dollars,<br> which means you won't get a tax deduction for
+                        contributions. However, <br>the money grows tax-free and withdrawals in retirement are also
+                        tax-free.
+                    </li>
+                    <li>Income limits: Contribution limits for IRAs are the same whether you choose a traditional or
+                        Roth
+                        account,<br> but there are differences in income limits. With a traditional IRA, anyone can
+                        contribute
+                        regardless of income, but<br> contributions to a Roth IRA are limited if your income exceeds
+                        $144,000 a
+                        year.</li>
+                    <li>Required minimum distributions: With a traditional IRA,<br>you are required to start taking
+                        minimum
+                        distributions once you reach age 72 (previously age 70.5)<br>, even if you don't need the money.
+                        There
+                        are no required minimum distributions with a Roth IRA,<br> which means you can leave the money
+                        in
+                        the
+                        account to grow tax-free for as long as you want.</li>
+                </ol>
+                <p class="Differences">There are many more differences, but you see you will choose based upon your
+                    preference
+                    and of course your income level.<br> We learn a lot more in class like: Where to go to get into an
+                    IRA
+                    or
+                    Roth IRA, and<br> Questions to ask when you find the place you trust to hold your money.</p>
+                <div class="img2">
+                    <img src="https://images.unsplash.com/photo-1550565118-3a14e8d0386f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
+                        alt="" srcset="">
+                </div>
+            </div>
+            <div class="options">
+                <div class="options1"></div>
+                <h2>Trading Stock Options</h2>
+                <p>One of my personal favorite things to do is trading options contracts.<br>Stock options
+                    are
+                    financial contracts that give the holder the right, but not the obligation, <br>to buy or sell a
+                    certain
+                    amount of stock at a specified price, known as the strike price, at or before a certain date,<br>
+                    known
+                    as
+                    the expiration date. There are two types of stock options: call options and put options.</p>
+                <p>Call options is you predicting that a certain stock will go up and Puts is you predicting
+                    it
+                    will go down.<br> Simple right NO! I will make it simple for you in this course.</p>
+                <ol>
+                    <li>How to read a Technical Analysis Chart using candle sticks</li>
+                    <li>My high Profitability set ups for the best possible gain</li>
+                    <li>The four stocks I focus on when trading. That has high volume</li>
+                    <li>When to get out and When to Get into a contract</li>
+                    <li>How to read contracts</li>
+                </ol>
+            </div>
+        
+        <div class="Long-term">
+            <div class="term">
+                <h1>Long-Term Investing</h1>
+                <p>When it comes to the stock market, long-term investing is the safest way to insure that you
+                    will
+                    get a great return on your money<br>. The average return from keeping your money in a bank is 0.23
+                    percent
+                    vs roughly 17 percent from the stock market <br>(Depending on the stock and length that you will
+                    hold).
+                    In
+                    this part of the course I will teach you:
+                </p>
+            </div>
+            <div class="term2">
+                <ul>
+                    <li>How to yahoo finance to research companies</li>
+                    <li>What is a ETF and why you should start investing in them first</li>
+                    <li>What is EPS(Earnings Per Share) and What is a good EPS</li>
+                    <li>P/E ratio (Price to Earning Ratio) why it is important</li>
+                    <li>Looking at Ten year charts.</li>
+                </ul>
+            </div>
+        </div>
+    
+    <script src="index.js"></script>
